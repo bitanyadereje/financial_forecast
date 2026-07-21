@@ -1,4 +1,4 @@
-# 📊 Forecasting Financial Inclusion in Ethiopia
+#  Forecasting Financial Inclusion in Ethiopia
 
 > **A data-driven forecasting system tracking Ethiopia's digital financial transformation using time series methods.**
 
@@ -148,7 +148,7 @@ streamlit run dashboard/app.py
 
 ---
 
-## 🖥️ Dashboard Features
+##  Dashboard Features
 
 - **Overview:** Key metrics (Account Ownership, Mobile Money, Gender Gap)
 - **Trends:** Interactive time series charts with multi-indicator selection
